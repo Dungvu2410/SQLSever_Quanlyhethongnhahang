@@ -1,0 +1,10 @@
+﻿insert into MonAn ( TenMon, HinhAnh, GiaBan) values ( 'Bugger gà', 'MM-17', 40000);
+insert into MonAn ( TenMon, HinhAnh, GiaBan) values ( 'Bugger bò', 'PG-EBR', 50000);
+insert into MonAn ( TenMon, HinhAnh, GiaBan) values ( 'Bugger heo', 'SD-09', 35000);
+insert into MonAn ( TenMon, HinhAnh, GiaBan) values ( 'Bugger tôm', 'PG-NSB', 50000);
+insert into MonAn ( TenMon, HinhAnh, GiaBan) values ( 'Mực chiên bột', 'AU-NT', 25000);
+insert into MonAn ( TenMon, HinhAnh, GiaBan) values ( 'Gà chiên', 'AU-WA', 25000);
+insert into MonAn ( TenMon, HinhAnh, GiaBan) values ( 'Cơm bò', 'EE-67', 35000);
+insert into MonAn ( TenMon, HinhAnh, GiaBan) values ( 'Mực hấp', 'MG-F', 45000);
+insert into MonAn ( TenMon, HinhAnh, GiaBan) values ( 'Bò kho', 'ET-AM', 55000);
+insert into MonAn ( TenMon, HinhAnh, GiaBan) values ( 'Heo quay', 'EC-G', 60000);

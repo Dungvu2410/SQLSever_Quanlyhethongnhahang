@@ -1,0 +1,21 @@
+insert into HoaDon ( Ma_NV, TongTien, Ma_CN, Ma_KH) values ( 9, 4543131, 'CN1', 16);
+insert into HoaDon ( Ma_NV, TongTien, Ma_CN, Ma_KH) values ( 10, 2719519, 'CN1', 5);
+insert into HoaDon ( Ma_NV, TongTien, Ma_CN, Ma_KH) values ( 7, 4972236, 'CN2', 12);
+insert into HoaDon ( Ma_NV, TongTien, Ma_CN, Ma_KH) values ( 1, 1857820, 'CN1', 20);
+insert into HoaDon ( Ma_NV, TongTien, Ma_CN, Ma_KH) values ( 6, 2167743, 'CN2', 14);
+insert into HoaDon ( Ma_NV, TongTien, Ma_CN, Ma_KH) values ( 3, 3138466, 'CN2', 3);
+insert into HoaDon ( Ma_NV, TongTien, Ma_CN, Ma_KH) values ( 5, 1691158, 'CN2', 2);
+insert into HoaDon ( Ma_NV, TongTien, Ma_CN, Ma_KH) values ( 5, 1585195, 'CN1', 9);
+insert into HoaDon ( Ma_NV, TongTien, Ma_CN, Ma_KH) values ( 2, 4985938, 'CN2', 13);
+insert into HoaDon ( Ma_NV, TongTien, Ma_CN, Ma_KH) values ( 6, 1339031, 'CN2', 11);
+insert into HoaDon ( Ma_NV, TongTien, Ma_CN, Ma_KH) values ( 9, 4080640, 'CN1', 12);
+insert into HoaDon ( Ma_NV, TongTien, Ma_CN, Ma_KH) values ( 7, 4080181, 'CN2', 7);
+insert into HoaDon ( Ma_NV, TongTien, Ma_CN, Ma_KH) values ( 9, 2131488, 'CN2', 10);
+insert into HoaDon ( Ma_NV, TongTien, Ma_CN, Ma_KH) values ( 4, 2926766, 'CN1', 10);
+insert into HoaDon ( Ma_NV, TongTien, Ma_CN, Ma_KH) values ( 8, 1287399, 'CN2', 10);
+insert into HoaDon ( Ma_NV, TongTien, Ma_CN, Ma_KH) values ( 8, 1905188, 'CN2', 20);
+insert into HoaDon ( Ma_NV, TongTien, Ma_CN, Ma_KH) values ( 7, 2248612, 'CN1', 2);
+insert into HoaDon ( Ma_NV, TongTien, Ma_CN, Ma_KH) values ( 5, 4080783, 'CN1', 3);
+insert into HoaDon ( Ma_NV, TongTien, Ma_CN, Ma_KH) values ( 4, 3825784, 'CN1', 6);
+insert into HoaDon ( Ma_NV, TongTien, Ma_CN, Ma_KH) values ( 7, 1629557, 'CN2', 13);
+
